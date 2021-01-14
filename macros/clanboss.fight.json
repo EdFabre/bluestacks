@@ -1,0 +1,68 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "ClanBoss.Fight",
+  "Events": [
+    {
+      "Timestamp": 3599,
+      "KeyName": "1",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3924,
+      "KeyName": "1",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7011,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7281,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 13385,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13659,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 354971,
+      "KeyName": "C",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 355195,
+      "KeyName": "C",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 360000,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 360500,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

@@ -1,0 +1,48 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Fight.StartFightOrNext",
+  "Events": [
+    {
+      "Timestamp": 1604,
+      "KeyName": "NumLock",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1605,
+      "KeyName": "NumLock",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1605,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1683,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2030,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2179,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

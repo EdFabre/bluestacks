@@ -1,0 +1,73 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Potion.Spirit.Lesser",
+  "Events": [
+    {
+      "Timestamp": 814,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1309,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1338,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1372,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1409,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1434,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1468,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1500,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1516,
+      "KeyName": "E",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1763,
+      "KeyName": "E",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1972,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

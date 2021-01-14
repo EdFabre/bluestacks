@@ -1,0 +1,243 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Champs.AutoArtifactUpgrade",
+  "Events": [
+    {
+      "Timestamp": 1699,
+      "KeyName": "5",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1997,
+      "KeyName": "5",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 5345,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5834,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5862,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5899,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5937,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5952,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5972,
+      "KeyName": "OemComma",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6161,
+      "KeyName": "OemComma",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 6724,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8711,
+      "KeyName": "G",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8881,
+      "KeyName": "G",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 11193,
+      "KeyName": "G",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11303,
+      "KeyName": "G",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 14868,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15363,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15406,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15420,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15452,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15484,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15506,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15549,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15575,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15606,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15638,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15686,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15705,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15736,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15767,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15799,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15826,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15877,
+      "KeyName": "1",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16054,
+      "KeyName": "1",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17257,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18878,
+      "KeyName": "B",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19056,
+      "KeyName": "B",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23293,
+      "KeyName": "R",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23468,
+      "KeyName": "R",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 26915,
+      "KeyName": "R",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 27039,
+      "KeyName": "R",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 30872,
+      "KeyName": "R",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 31086,
+      "KeyName": "R",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 34760,
+      "KeyName": "R",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 34925,
+      "KeyName": "R",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

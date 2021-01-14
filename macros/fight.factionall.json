@@ -1,0 +1,198 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Fight.FactionAll",
+  "MergedMacroConfigurations": [
+    {
+      "MacrosToRun": [
+        "Campaign.Stage1"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.Setup.ClearAll"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.Setup.Filter.Level"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.Setup.Champ.R1C1"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.Setup.Champ.R2C1"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.Setup.Champ.R1C2"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.Setup.Champ.R2C2"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.Setup.Champ.R1C3"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.Setup.Champ.R2C3"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.StartFightOrNext",
+        "Wait.10Sec",
+        "Wait.10Sec",
+        "Wait.10Sec",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.StartFightOrNext",
+        "Fight.StartFightOrNext",
+        "Wait.10Sec",
+        "Wait.10Sec",
+        "Wait.10Sec",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.StartFightOrNext",
+        "Fight.StartFightOrNext",
+        "Wait.10Sec",
+        "Wait.10Sec",
+        "Wait.10Sec",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.StartFightOrNext",
+        "Fight.StartFightOrNext",
+        "Wait.10Sec",
+        "Wait.10Sec",
+        "Wait.10Sec",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "StartFight.ReplayORExitArena",
+        "Wait.1Min",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "StartFight.ReplayORExitArena",
+        "Wait.1Min",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "StartFight.ReplayORExitArena",
+        "Wait.1Min",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "StartFight.ReplayORExitArena",
+        "Wait.1Min",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

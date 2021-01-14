@@ -1,0 +1,38 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Potion.Arcane.Greater",
+  "Events": [
+    {
+      "Timestamp": 653,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 832,
+      "KeyName": "8",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1032,
+      "KeyName": "8",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1360,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

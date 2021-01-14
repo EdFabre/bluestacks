@@ -1,0 +1,188 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Potion.Force.Greater",
+  "Events": [
+    {
+      "Timestamp": 283,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 295,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 786,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 809,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 820,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 823,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 849,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 856,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 883,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 884,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 914,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 918,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 948,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 949,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 979,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 980,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1012,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1013,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1047,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1048,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1080,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1087,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1111,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1112,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1145,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1145,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1179,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1183,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1212,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1213,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1235,
+      "KeyName": "4",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1438,
+      "KeyName": "4",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1937,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1938,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

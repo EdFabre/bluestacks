@@ -1,0 +1,1628 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Arena.Select8",
+  "Events": [
+    {
+      "Timestamp": 1021,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1520,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1553,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1586,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1620,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1653,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1686,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1721,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1753,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1787,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1823,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1851,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1884,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1922,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1960,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1982,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2023,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2050,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2081,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2116,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2148,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2181,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2214,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2248,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2280,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2310,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2347,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2380,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2411,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2458,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2478,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2518,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2544,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2598,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2626,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2643,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2674,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2707,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2742,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2762,
+      "KeyName": "Down",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3115,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3554,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3583,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3629,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3657,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3685,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3719,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3757,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3784,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3815,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3849,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3882,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3915,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3948,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3982,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4012,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4048,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4079,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4112,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4146,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4184,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4213,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4243,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4281,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4311,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4346,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4378,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4412,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4442,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4475,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4509,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4542,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4574,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4608,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4639,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4675,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4706,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4741,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4773,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4805,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4839,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4873,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4905,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4940,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4964,
+      "KeyName": "Down",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 5269,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5768,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5804,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5836,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5868,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5902,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5932,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5966,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6000,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6034,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6064,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6099,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6131,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6165,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6198,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6233,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6265,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6297,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6329,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6362,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6394,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6427,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6465,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6497,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6529,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6560,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6599,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6625,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6663,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6692,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6724,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6758,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6791,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6823,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6857,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6890,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6923,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6957,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7000,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7022,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7056,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7075,
+      "KeyName": "Down",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7348,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7848,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7883,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7913,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7946,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7979,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8013,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8047,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8087,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8113,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8147,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8178,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8211,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8247,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8277,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8311,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8343,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8378,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8411,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8442,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8478,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8513,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8542,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8574,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8612,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8642,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8675,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8706,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8738,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8772,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8804,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8837,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8875,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8907,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8938,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8972,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9002,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9035,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9070,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9104,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9136,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9170,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9201,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9207,
+      "KeyName": "Down",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 9471,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9968,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10002,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10035,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10072,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10099,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10132,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10170,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10198,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10233,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10267,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10298,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10333,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10369,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10401,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10430,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10465,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10495,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10529,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10561,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10595,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10632,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10661,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10694,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10726,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10761,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10792,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10828,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10859,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10895,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10926,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10962,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10990,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11025,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11057,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11089,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11123,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11158,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11190,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11224,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11244,
+      "KeyName": "Down",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 11581,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12082,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12113,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12149,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12181,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12216,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12246,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12279,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12315,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12348,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12379,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12409,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12446,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12476,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12509,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12543,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12575,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12609,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12640,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12676,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12715,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12740,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12774,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12808,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12839,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12880,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12909,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12940,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12975,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13006,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13039,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13073,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13103,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13137,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13170,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13203,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13236,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13266,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13302,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13336,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13366,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13399,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13414,
+      "KeyName": "Down",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 13806,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14318,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14340,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14373,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14408,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14442,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14470,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14504,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14537,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14570,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14603,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14637,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14671,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14703,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14735,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14769,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14800,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14832,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14865,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14901,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14931,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14965,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14997,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15031,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15063,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15095,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15129,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15162,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15196,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15227,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15262,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15294,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15330,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15361,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15395,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15398,
+      "KeyName": "Down",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16095,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16596,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16633,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16664,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16691,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16727,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16760,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16791,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16826,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16856,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16889,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16924,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16960,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16990,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17026,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17059,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17088,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17126,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17155,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17187,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17222,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17257,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17288,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17320,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17355,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17389,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17416,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17454,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17460,
+      "KeyName": "Down",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18000,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18100,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

@@ -1,0 +1,1438 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Faction.BannerLord",
+  "Events": [
+    {
+      "Timestamp": 77,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 577,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 605,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 641,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 673,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 708,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 738,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 770,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 803,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 837,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 872,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 903,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 934,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 968,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1002,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1035,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1068,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1101,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1139,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1166,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1204,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1224,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1393,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1893,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1931,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1959,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1991,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2031,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2058,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2091,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2124,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2157,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2196,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2222,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2256,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2288,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2322,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2354,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2392,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2422,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2454,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2494,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2521,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2552,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2588,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2600,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2881,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3389,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3415,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3449,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3485,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3520,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3546,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3584,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3614,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3643,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3677,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3711,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3743,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3779,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3810,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3842,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3875,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3909,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3941,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3974,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4007,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4039,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4080,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4106,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4130,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4439,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4940,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4973,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5009,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5040,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5103,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5112,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5141,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5171,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5207,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5237,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5270,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5304,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5335,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5369,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5403,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5436,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5469,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5502,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5534,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5567,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5600,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5641,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5656,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 5873,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6373,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6406,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6439,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6473,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6504,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6537,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6580,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6603,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6642,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6668,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6709,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6735,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6768,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6803,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6835,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6867,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6901,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6934,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6966,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6999,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7033,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7064,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7313,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7815,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7848,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7878,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7920,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7948,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7978,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8015,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8043,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8077,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8109,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8144,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8174,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8209,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8241,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8275,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8307,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8340,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8373,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8407,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8439,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8471,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8504,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8736,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9237,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9270,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9302,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9336,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9369,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9401,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9435,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9468,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9500,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9535,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9568,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9599,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9634,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9664,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9698,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9732,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9765,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9802,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9830,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9865,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9890,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 10138,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10642,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10669,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10713,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10735,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10768,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10801,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10835,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10868,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10901,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10933,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10968,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10999,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11032,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11065,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11099,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11131,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11165,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11198,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11231,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11263,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 11288,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 11505,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12005,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12038,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12077,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12104,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12339,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12436,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12468,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12501,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12533,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12567,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12600,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12632,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12665,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12697,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 12939,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13439,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13469,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13503,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13535,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13574,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13601,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13634,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13668,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13703,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13734,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13767,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13800,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13832,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13866,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13899,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13932,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13965,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14003,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14030,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14064,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14081,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 14314,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14815,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14848,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14881,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14914,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14947,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14980,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15010,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15046,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15079,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15110,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15163,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15175,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15209,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15248,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15274,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15311,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15340,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15376,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15407,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15441,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15474,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15481,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 15696,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16197,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16232,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16264,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16296,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16328,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16365,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16395,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16431,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16462,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16501,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16528,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16563,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16593,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16628,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16659,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16696,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16726,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16758,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16791,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16827,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16857,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16890,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16925,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16957,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16988,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17022,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17061,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17087,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17124,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17153,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17188,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17220,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17254,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17289,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17321,
+      "KeyName": "Left",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17329,
+      "KeyName": "Left",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17500,
+      "KeyName": "F",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17600,
+      "KeyName": "F",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

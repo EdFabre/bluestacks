@@ -1,0 +1,28 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Arena.Refresh",
+  "Events": [
+    {
+      "Timestamp": 500,
+      "KeyName": "O",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 600,
+      "KeyName": "O",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

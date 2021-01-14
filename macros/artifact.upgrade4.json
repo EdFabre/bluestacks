@@ -1,0 +1,123 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Artifact.Upgrade4",
+  "Events": [
+    {
+      "Timestamp": 1306,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1796,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1826,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1862,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1890,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1921,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1954,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1966,
+      "KeyName": "9",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2204,
+      "KeyName": "9",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3048,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 5168,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5663,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5688,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5721,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5730,
+      "KeyName": "T",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5903,
+      "KeyName": "T",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 6142,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 10201,
+      "KeyName": "E",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10301,
+      "KeyName": "E",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 12029,
+      "KeyName": "J",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12126,
+      "KeyName": "J",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

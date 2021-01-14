@@ -1,0 +1,198 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Campaign.Stage7",
+  "Events": [
+    {
+      "Timestamp": 648,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 648,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 648,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 762,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 762,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 762,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 814,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 814,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 814,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 863,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 863,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 863,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 890,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 890,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 890,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 942,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 942,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 942,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1047,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 1047,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1047,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1145,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 1145,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1145,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1238,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 1238,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1238,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1984,
+      "X": 76.79,
+      "Y": 42.72,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 1984,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1984,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3306,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3479,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

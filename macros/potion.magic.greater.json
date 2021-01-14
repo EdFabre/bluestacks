@@ -1,0 +1,58 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Potion.Magic.Greater",
+  "Events": [
+    {
+      "Timestamp": 661,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1169,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1195,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1227,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1262,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1263,
+      "KeyName": "3",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1487,
+      "KeyName": "3",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1950,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

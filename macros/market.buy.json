@@ -1,0 +1,163 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Market.Buy",
+  "Events": [
+    {
+      "Timestamp": 1241,
+      "KeyName": "W",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1337,
+      "KeyName": "W",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3168,
+      "KeyName": "E",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3438,
+      "KeyName": "E",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4217,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4706,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4736,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4771,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4812,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4828,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4875,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4889,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4918,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4942,
+      "KeyName": "S",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5189,
+      "KeyName": "S",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 6275,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7138,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7615,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7649,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7688,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7708,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7750,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7767,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7796,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7819,
+      "KeyName": "E",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7997,
+      "KeyName": "E",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8898,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 10569,
+      "KeyName": "B",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10852,
+      "KeyName": "B",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

@@ -1,0 +1,108 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Fight.Setup.ClearFood",
+  "Events": [
+    {
+      "Timestamp": 539,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 992,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1029,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1057,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1092,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1125,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1158,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1192,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1226,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1252,
+      "KeyName": "2",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1494,
+      "KeyName": "2",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2142,
+      "KeyName": "3",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2392,
+      "KeyName": "3",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3014,
+      "KeyName": "4",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3215,
+      "KeyName": "4",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3972,
+      "KeyName": "5",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4227,
+      "KeyName": "5",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 5106,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

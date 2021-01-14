@@ -1,0 +1,48 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Potion.Void.Lesser",
+  "Events": [
+    {
+      "Timestamp": 877,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 880,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1112,
+      "KeyName": "1",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1317,
+      "KeyName": "1",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1396,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1400,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

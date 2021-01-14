@@ -1,0 +1,32 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Bastion.Forge",
+  "Events": [
+    {
+      "Timestamp": 1794,
+      "X": 52.93,
+      "Y": 45.71,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 1889,
+      "X": 52.93,
+      "Y": 45.71,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

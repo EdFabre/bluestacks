@@ -1,0 +1,99 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Action.Fight.2ClanBoss",
+  "MergedMacroConfigurations": [
+    {
+      "MacrosToRun": [
+        "GoTo.Bastion"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 30,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Bastion.Battles"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Battles.ClanBoss"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "ClanBoss.Claim"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "GoTo.Bastion"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Bastion.Battles"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Battles.ClanBoss"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "ClanBoss.Fight"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "ClanBoss.Fight"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

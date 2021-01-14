@@ -1,0 +1,243 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Action.Fight.ClassicArena",
+  "MergedMacroConfigurations": [
+    {
+      "MacrosToRun": [
+        "GoTo.Bastion"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 30,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Bastion.Battles"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Battles.Arenas"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arenas.ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Refresh"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select1"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select2"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select3"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select4"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select5"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select6"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select7"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select8"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select9"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Arena.Select10"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Fight.1ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

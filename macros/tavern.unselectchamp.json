@@ -1,0 +1,48 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Tavern.UnselectChamp",
+  "Events": [
+    {
+      "Timestamp": 495,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 672,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2000,
+      "KeyName": "H",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2200,
+      "KeyName": "H",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4000,
+      "KeyName": "H",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4200,
+      "KeyName": "H",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

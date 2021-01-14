@@ -1,0 +1,88 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Action.Fight.FactionWars",
+  "MergedMacroConfigurations": [
+    {
+      "MacrosToRun": [
+        "GoTo.Bastion",
+        "Bastion.Battles",
+        "Battles.Faction",
+        "Faction.Orc",
+        "Faction.OgrynTribe",
+        "Faction.Demonspawn",
+        "Faction.UndeadHorde",
+        "Faction.KnightRevenant",
+        "Faction.Skinwalker",
+        "Faction.Lizardmen",
+        "Fight.FactionAll"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "GoTo.Bastion",
+        "Bastion.Battles",
+        "Battles.Faction",
+        "Faction.HighElf",
+        "Faction.SacredOrder",
+        "Faction.Barbarian",
+        "Faction.BannerLord",
+        "Faction.Dwarf",
+        "Fight.FactionAll"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "GoTo.Bastion",
+        "Bastion.Battles",
+        "Battles.Faction",
+        "Faction.Dwarf",
+        "Faction.BannerLord",
+        "Faction.Barbarian",
+        "Faction.SacredOrder",
+        "Fight.FactionAll"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "GoTo.Bastion",
+        "Bastion.Battles",
+        "Battles.Faction",
+        "Faction.Lizardmen",
+        "Faction.KnightRevenant",
+        "Faction.Skinwalker",
+        "Faction.UndeadHorde",
+        "Faction.Demonspawn",
+        "Faction.OgrynTribe",
+        "Fight.FactionAll"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

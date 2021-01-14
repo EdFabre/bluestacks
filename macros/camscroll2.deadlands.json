@@ -1,0 +1,43 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "CamScroll2.Deadlands",
+  "Events": [
+    {
+      "Timestamp": 1900,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2607,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2608,
+      "KeyName": "7",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2608,
+      "KeyName": "7",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2958,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

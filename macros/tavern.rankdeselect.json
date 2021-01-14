@@ -1,0 +1,48 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Tavern.RankDeselect",
+  "Events": [
+    {
+      "Timestamp": 1486,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1689,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4425,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4598,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 6761,
+      "KeyName": "H",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6929,
+      "KeyName": "H",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

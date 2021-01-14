@@ -1,0 +1,213 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Tavern.MixPotion.Force",
+  "Events": [
+    {
+      "Timestamp": 1414,
+      "KeyName": "G",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1615,
+      "KeyName": "G",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2678,
+      "KeyName": "E",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2839,
+      "KeyName": "E",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3837,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4337,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4358,
+      "KeyName": "E",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4520,
+      "KeyName": "E",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4780,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7446,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7448,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7944,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7945,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7981,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7982,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8013,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8017,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8045,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8046,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8077,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8082,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8109,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8111,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8144,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8145,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8178,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8183,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8209,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8210,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8215,
+      "KeyName": "4",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8418,
+      "KeyName": "4",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8957,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8959,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 10277,
+      "KeyName": "E",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10398,
+      "KeyName": "E",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 11773,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12297,
+      "KeyName": "E",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 12382,
+      "KeyName": "E",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 12662,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

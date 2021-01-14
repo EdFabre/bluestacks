@@ -1,0 +1,98 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "ClanBoss.Claim",
+  "Events": [
+    {
+      "Timestamp": 1986,
+      "KeyName": "1",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2335,
+      "KeyName": "1",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4924,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5334,
+      "KeyName": "3",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5535,
+      "KeyName": "3",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 6158,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7384,
+      "KeyName": "1",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7541,
+      "KeyName": "1",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8295,
+      "KeyName": "2",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8540,
+      "KeyName": "2",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 9532,
+      "KeyName": "3",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9720,
+      "KeyName": "3",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 10751,
+      "KeyName": "4",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10979,
+      "KeyName": "4",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16727,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16981,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

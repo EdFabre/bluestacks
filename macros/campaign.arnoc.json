@@ -1,0 +1,38 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Campaign.Arnoc",
+  "Events": [
+    {
+      "Timestamp": 672,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1107,
+      "KeyName": "2",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1353,
+      "KeyName": "2",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1669,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

@@ -1,0 +1,53 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "CamScroll2.Godfrey",
+  "Events": [
+    {
+      "Timestamp": 1837,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2320,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2362,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2383,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2405,
+      "KeyName": "8",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2576,
+      "KeyName": "8",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2986,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

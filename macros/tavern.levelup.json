@@ -1,0 +1,3269 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Tavern.LevelUp",
+  "Events": [
+    {
+      "Timestamp": 2849,
+      "X": 16.07,
+      "Y": 14.18,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 3026,
+      "X": 16.07,
+      "Y": 14.18,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 3345,
+      "KeyName": "Oem2",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3505,
+      "KeyName": "Oem2",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4579,
+      "KeyName": "Oem2",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4814,
+      "KeyName": "Oem2",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7380,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7867,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7913,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7943,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7972,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7991,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8032,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8033,
+      "KeyName": "4",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8195,
+      "KeyName": "4",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8847,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 13151,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 13151,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13151,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 13377,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 13377,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13377,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 13578,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 13579,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13579,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 13783,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 13783,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13783,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 13943,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 13943,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 13943,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 14059,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 14059,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14059,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 14794,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -240,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 14794,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 14794,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 15090,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 15090,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15090,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 15275,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 15275,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15275,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 15341,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 15341,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15341,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 15401,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 15401,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15401,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 15491,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 15491,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15491,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 15579,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 15579,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15579,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 15658,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 15659,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 15659,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16182,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 16182,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16182,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16294,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 16294,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16294,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16369,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 16369,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16369,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16428,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 16428,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16428,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16540,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 16540,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16540,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16650,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 16650,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16650,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16728,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 16728,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16728,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 16834,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 16834,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 16834,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17293,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17293,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17293,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17356,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17356,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17356,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17422,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17423,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17423,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17479,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17479,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17479,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17539,
+      "X": 14.92,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17539,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17539,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17608,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17608,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17608,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17665,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17665,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17665,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17717,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17717,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17717,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 17774,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 17774,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 17774,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18247,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18247,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18247,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18308,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18308,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18308,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18328,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18328,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18328,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18363,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18363,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18363,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18388,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18388,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18388,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18431,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18431,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18431,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18470,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18470,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18470,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18509,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18509,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18509,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 18603,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 18603,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 18603,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19054,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19054,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19054,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19139,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19139,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19139,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19196,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19196,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19196,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19227,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19227,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19227,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19288,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19288,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19288,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19365,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19365,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19365,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19391,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19391,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19391,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19431,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19432,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19432,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19471,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19471,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19471,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 19525,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 19525,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 19525,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20038,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20038,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20038,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20089,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20089,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20089,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20162,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20163,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20163,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20178,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20178,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20178,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20225,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20225,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20225,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20266,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20266,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20266,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20321,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20321,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20321,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20369,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20369,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20369,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20426,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20426,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20426,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20509,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20509,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20509,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 20984,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 20984,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 20984,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21035,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21035,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21035,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21065,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21065,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21065,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21116,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21116,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21116,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21160,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21160,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21161,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21224,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21224,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21224,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21281,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21281,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21281,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21322,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21322,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21322,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21345,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21345,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21345,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 21957,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 21957,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 21957,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22009,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22009,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22009,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22060,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22060,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22061,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22084,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22084,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22084,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22130,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22130,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22130,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22178,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22178,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22178,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22205,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22205,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22205,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22258,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22258,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22258,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22274,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22274,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22274,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22335,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22335,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22335,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22845,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22845,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22845,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22901,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22901,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22901,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22952,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22952,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 22952,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 22999,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 22999,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23000,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23055,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 23055,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23055,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23109,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 23109,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23109,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23148,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 23148,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23148,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23201,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 23201,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23201,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23252,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 23252,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23252,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23309,
+      "X": 15.02,
+      "Y": 24.25,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 23309,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23309,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23850,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 23850,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23850,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 23941,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 23941,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 23941,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24002,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24002,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24002,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24057,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24057,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24057,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24117,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24117,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24117,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24166,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24166,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24166,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24253,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24253,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24253,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24306,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24306,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24306,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24371,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24371,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24372,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24881,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24881,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24881,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24949,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24949,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24949,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 24994,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 24994,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 24994,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 25036,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 25036,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 25036,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 25092,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 25092,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 25092,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 25145,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 25145,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 25145,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 25189,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 25189,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 25189,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 25244,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 25244,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 25244,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 25309,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 25309,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 25309,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 25901,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 25901,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 25901,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 25987,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 25988,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 25988,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 26036,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 26036,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 26036,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 26097,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 26097,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 26097,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 26179,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 26179,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 26179,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 26248,
+      "X": 15.02,
+      "Y": 24.44,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 26248,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 26248,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 26308,
+      "X": 15.02,
+      "Y": 24.63,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 26308,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 26308,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 26416,
+      "X": 15.02,
+      "Y": 24.63,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 26416,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 26416,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 26569,
+      "X": 15.02,
+      "Y": 24.63,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 26569,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 26569,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 29193,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29680,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29741,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29743,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29791,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29804,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29852,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29866,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29908,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29931,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 29954,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30013,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30017,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30047,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30077,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30119,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30142,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30163,
+      "KeyName": "N",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30373,
+      "KeyName": "N",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 33176,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 35232,
+      "X": 16.91,
+      "Y": 35.07,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 35232,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 35232,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 35446,
+      "X": 16.91,
+      "Y": 35.07,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 35446,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 35447,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 35751,
+      "X": 16.81,
+      "Y": 35.07,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 35751,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 35751,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 35969,
+      "X": 16.81,
+      "Y": 35.26,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 35969,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 35969,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 36190,
+      "X": 16.81,
+      "Y": 35.26,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 36190,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 36190,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 36627,
+      "X": 16.81,
+      "Y": 35.26,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 36627,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 36627,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 36852,
+      "X": 16.81,
+      "Y": 35.26,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 36852,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 36852,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 37400,
+      "X": 16.7,
+      "Y": 35.26,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 37400,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 37400,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 37445,
+      "X": 16.7,
+      "Y": 35.26,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 37445,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 37445,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 37507,
+      "X": 16.7,
+      "Y": 35.26,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 37507,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 37507,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 37566,
+      "X": 16.7,
+      "Y": 35.26,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 37567,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 37567,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 37604,
+      "X": 16.7,
+      "Y": 35.07,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 37604,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 37604,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 37650,
+      "X": 16.7,
+      "Y": 35.07,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 37650,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 37650,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 38167,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 38167,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 38167,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 38222,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 38222,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 38222,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 38275,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 38275,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 38275,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 38323,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 38323,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 38323,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 38383,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 38383,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 38383,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 38447,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 38447,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 38447,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 38472,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 38472,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 38472,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 38558,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 38558,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 38558,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39026,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39026,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39026,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39067,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39067,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39067,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39110,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39110,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39110,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39142,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39142,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39142,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39205,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39206,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39206,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39232,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39232,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39232,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39272,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39272,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39272,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39330,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39330,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39330,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39842,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39843,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39843,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39880,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39880,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39880,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39924,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39924,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39924,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 39965,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 39966,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 39966,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 40023,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 40023,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 40023,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 40042,
+      "X": 16.6,
+      "Y": 34.89,
+      "Delta": -120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 40042,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 40042,
+      "KeyName": "MouseWheelDown",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 43478,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 43951,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 43997,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44013,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44058,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44074,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44104,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44137,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44167,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44195,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44227,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44257,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44288,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44321,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44356,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44377,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44407,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44438,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44476,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44502,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44531,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44561,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44601,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44621,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44648,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44693,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44715,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44742,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44773,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44822,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44850,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44876,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44898,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 44933,
+      "KeyName": "N",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 45256,
+      "KeyName": "N",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 46323,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 58976,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 59467,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 59517,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 59536,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 59578,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 59596,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 59639,
+      "KeyName": "3",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 59824,
+      "KeyName": "3",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 60893,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 61842,
+      "KeyName": "G",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 62017,
+      "KeyName": "G",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 63516,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 63779,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 63818,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 63857,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 63866,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 63897,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 63928,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 63956,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 63998,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64034,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64057,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64084,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64111,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64142,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64185,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64212,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64255,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64263,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64297,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64323,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64354,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64383,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64416,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64442,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64472,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64502,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64555,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64567,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64608,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64627,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64676,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64686,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64740,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64745,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64796,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64808,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64858,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64868,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64903,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64927,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64965,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65034,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65056,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65095,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65130,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65147,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65190,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65213,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65255,
+      "KeyName": "5",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 65402,
+      "KeyName": "5",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 67174,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 71055,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 71280,
+      "KeyName": "Enter",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

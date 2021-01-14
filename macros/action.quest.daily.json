@@ -1,0 +1,141 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Action.Quest.Daily",
+  "MergedMacroConfigurations": [
+    {
+      "MacrosToRun": [
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Claim.Gems"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Clan.Checkin"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Artifact.4Upgrades"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Market.Buy"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Pit.UpgradeAll"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 3,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Summon.One",
+        "Action.Summon.One",
+        "Action.Summon.One",
+        "Action.Summon.Ten",
+        "Action.Summon.Ten",
+        "Action.Summon.Ten",
+        "Action.Summon.Ten",
+        "Action.Summon.Ten",
+        "Action.Summon.Ten",
+        "Action.Summon.One",
+        "Action.Summon.One",
+        "Action.Summon.One"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Tavern.LevelUp"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Fight.ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Fight.TeamsArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Fight.7BrutalCampaignBoss"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Fight.2ClanBoss"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": true,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

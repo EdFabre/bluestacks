@@ -1,0 +1,113 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Campaign.Stage2",
+  "Events": [
+    {
+      "Timestamp": 619,
+      "X": 71.85,
+      "Y": 28.73,
+      "Delta": 120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 619,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 619,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 673,
+      "X": 71.85,
+      "Y": 28.73,
+      "Delta": 120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 673,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 673,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 718,
+      "X": 71.85,
+      "Y": 28.73,
+      "Delta": 120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 718,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 718,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 816,
+      "X": 71.85,
+      "Y": 28.73,
+      "Delta": 120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 816,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 816,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 968,
+      "X": 71.85,
+      "Y": 28.73,
+      "Delta": 120,
+      "EventType": "MouseWheel"
+    },
+    {
+      "Timestamp": 968,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 968,
+      "KeyName": "MouseWheelUp",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2779,
+      "KeyName": "6",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2934,
+      "KeyName": "6",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

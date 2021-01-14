@@ -1,0 +1,28 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "CamScroll1.Felwin",
+  "Events": [
+    {
+      "Timestamp": 1322,
+      "KeyName": "F",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1492,
+      "KeyName": "F",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

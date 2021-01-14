@@ -1,0 +1,38 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Campaign.Difficulty.Brutal",
+  "Events": [
+    {
+      "Timestamp": 1377,
+      "KeyName": "U",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1543,
+      "KeyName": "U",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2394,
+      "KeyName": "Oem5",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2489,
+      "KeyName": "Oem5",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

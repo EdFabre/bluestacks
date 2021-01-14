@@ -1,0 +1,58 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Fight.Setup.Filter.Recent",
+  "Events": [
+    {
+      "Timestamp": 895,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1099,
+      "KeyName": "Oem3",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1272,
+      "KeyName": "Oem3",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1961,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2891,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3144,
+      "KeyName": "H",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3280,
+      "KeyName": "H",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3611,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

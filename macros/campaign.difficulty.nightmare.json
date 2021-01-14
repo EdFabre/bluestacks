@@ -1,0 +1,48 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Campaign.Difficulty.Nightmare",
+  "Events": [
+    {
+      "Timestamp": 1335,
+      "KeyName": "U",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1487,
+      "KeyName": "U",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2855,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3009,
+      "KeyName": "J",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3154,
+      "KeyName": "J",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3548,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

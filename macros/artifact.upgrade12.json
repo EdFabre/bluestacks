@@ -1,0 +1,93 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "Artifact.Upgrade12",
+  "Events": [
+    {
+      "Timestamp": 1180,
+      "KeyName": "Shift",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1628,
+      "KeyName": "9",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1778,
+      "KeyName": "9",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2305,
+      "KeyName": "Shift",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4299,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4788,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4810,
+      "KeyName": "T",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4967,
+      "KeyName": "T",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 5450,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7811,
+      "KeyName": "Alt",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8258,
+      "KeyName": "I",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8373,
+      "KeyName": "I",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8536,
+      "KeyName": "Alt",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 10413,
+      "KeyName": "J",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10548,
+      "KeyName": "J",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

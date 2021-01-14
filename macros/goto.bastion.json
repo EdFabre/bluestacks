@@ -1,0 +1,138 @@
+{
+  "TimeCreated": "20210106T170304",
+  "Name": "GoTo.Bastion",
+  "Events": [
+    {
+      "Timestamp": 799,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1288,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1318,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1360,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 2132,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2470,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 3284,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3545,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 4206,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 4459,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 5228,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 5549,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 6356,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 6631,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 7377,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 7652,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 8400,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 8692,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 9442,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 9712,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 10492,
+      "KeyName": "Esc",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 10883,
+      "KeyName": "Esc",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 29828,
+      "KeyName": "Oem3",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 30169,
+      "KeyName": "Oem3",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}
