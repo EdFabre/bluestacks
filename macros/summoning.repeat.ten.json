@@ -1,40 +1,45 @@
 {
-  "TimeCreated": "20210106T170304",
-  "Name": "CamScroll2.Godfrey",
+  "TimeCreated": "20210118T095750",
+  "Name": "Summoning.Repeat.Ten",
   "Events": [
     {
-      "Timestamp": 1837,
-      "KeyName": "Alt",
+      "Timestamp": 500,
+      "KeyName": "Ctrl",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 2320,
-      "KeyName": "Alt",
+      "Timestamp": 550,
+      "KeyName": "N",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 2362,
-      "KeyName": "Alt",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 2383,
-      "KeyName": "Alt",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 2405,
-      "KeyName": "8",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 2576,
-      "KeyName": "8",
+      "Timestamp": 600,
+      "KeyName": "N",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 2986,
-      "KeyName": "Alt",
+      "Timestamp": 650,
+      "KeyName": "Ctrl",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 800,
+      "KeyName": "Ctrl",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 850,
+      "KeyName": "N",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 900,
+      "KeyName": "N",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 950,
+      "KeyName": "Ctrl",
       "EventType": "KeyUp"
     }
   ],

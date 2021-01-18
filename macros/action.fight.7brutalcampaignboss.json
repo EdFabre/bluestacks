@@ -1,5 +1,5 @@
 {
-  "TimeCreated": "20210106T170304",
+  "TimeCreated": "20210118T095750",
   "Name": "Action.Fight.7BrutalCampaignBoss",
   "MergedMacroConfigurations": [
     {
@@ -40,25 +40,16 @@
     },
     {
       "MacrosToRun": [
-        "Campaign.CamScroll1"
+        "Campaign.Map.Brimstone"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
-      "DelayNextScript": 3,
+      "DelayNextScript": 0,
       "Acceleration": 1
     },
     {
       "MacrosToRun": [
-        "CamScroll1.Aravia"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 3,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Campaign.Stage7"
+        "Campaign.Stage.7"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,

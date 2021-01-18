@@ -1,15 +1,25 @@
 {
-  "TimeCreated": "20210106T170304",
+  "TimeCreated": "20210118T095750",
   "Name": "Champs.AutoArtifactUpgrade",
   "Events": [
     {
-      "Timestamp": 1699,
-      "KeyName": "5",
+      "Timestamp": 500,
+      "KeyName": "Alt",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1997,
-      "KeyName": "5",
+      "Timestamp": 600,
+      "KeyName": "P",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 700,
+      "KeyName": "P",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 800,
+      "KeyName": "Alt",
       "EventType": "KeyUp"
     },
     {

@@ -1,20 +1,10 @@
 {
-  "TimeCreated": "20210106T170304",
+  "TimeCreated": "20210118T095750",
   "Name": "Action.Fight.FactionWars",
   "MergedMacroConfigurations": [
     {
       "MacrosToRun": [
-        "GoTo.Bastion",
-        "Bastion.Battles",
-        "Battles.Faction",
-        "Faction.Orc",
-        "Faction.OgrynTribe",
-        "Faction.Demonspawn",
-        "Faction.UndeadHorde",
-        "Faction.KnightRevenant",
-        "Faction.Skinwalker",
-        "Faction.Lizardmen",
-        "Fight.FactionAll"
+        "GoTo.Bastion"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
@@ -23,15 +13,7 @@
     },
     {
       "MacrosToRun": [
-        "GoTo.Bastion",
-        "Bastion.Battles",
-        "Battles.Faction",
-        "Faction.HighElf",
-        "Faction.SacredOrder",
-        "Faction.Barbarian",
-        "Faction.BannerLord",
-        "Faction.Dwarf",
-        "Fight.FactionAll"
+        "Bastion.Battles"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
@@ -40,14 +22,7 @@
     },
     {
       "MacrosToRun": [
-        "GoTo.Bastion",
-        "Bastion.Battles",
-        "Battles.Faction",
-        "Faction.Dwarf",
-        "Faction.BannerLord",
-        "Faction.Barbarian",
-        "Faction.SacredOrder",
-        "Fight.FactionAll"
+        "Battles.Faction"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
@@ -56,15 +31,69 @@
     },
     {
       "MacrosToRun": [
-        "GoTo.Bastion",
-        "Bastion.Battles",
-        "Battles.Faction",
-        "Faction.Lizardmen",
-        "Faction.KnightRevenant",
-        "Faction.Skinwalker",
-        "Faction.UndeadHorde",
-        "Faction.Demonspawn",
-        "Faction.OgrynTribe",
+        "Faction.Orc"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Faction.OgrynTribe"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Faction.Demonspawn"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Faction.UndeadHorde"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Faction.KnightRevenant"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Faction.Skinwalker"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Faction.Lizardmen"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
         "Fight.FactionAll"
       ],
       "LoopCount": 1,

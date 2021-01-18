@@ -1,5 +1,5 @@
 {
-  "TimeCreated": "20210106T170304",
+  "TimeCreated": "20210118T095750",
   "Name": "Fight.Setup.Filter.Vault",
   "Events": [
     {
@@ -39,22 +39,22 @@
     },
     {
       "Timestamp": 3866,
-      "KeyName": "Ctrl",
+      "KeyName": "Shift",
       "EventType": "KeyDown"
     },
     {
       "Timestamp": 3982,
-      "KeyName": "2",
+      "KeyName": "1",
       "EventType": "KeyDown"
     },
     {
       "Timestamp": 4252,
-      "KeyName": "Ctrl",
+      "KeyName": "1",
       "EventType": "KeyUp"
     },
     {
       "Timestamp": 4253,
-      "KeyName": "2",
+      "KeyName": "Shift",
       "EventType": "KeyUp"
     }
   ],

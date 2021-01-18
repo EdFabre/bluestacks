@@ -1,151 +1,117 @@
 {
-  "TimeCreated": "20210106T170304",
-  "Name": "Campaign.Stage4",
+  "TimeCreated": "20210118T095750",
+  "Name": "Campaign.Stage.3",
   "Events": [
     {
-      "Timestamp": 945,
+      "Timestamp": 860,
       "X": 73,
-      "Y": 27.43,
+      "Y": 23.32,
       "Delta": 120,
       "EventType": "MouseWheel"
     },
     {
-      "Timestamp": 945,
+      "Timestamp": 860,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 945,
+      "Timestamp": 860,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 1051,
+      "Timestamp": 1053,
       "X": 73,
-      "Y": 27.61,
+      "Y": 23.32,
       "Delta": 120,
       "EventType": "MouseWheel"
     },
     {
-      "Timestamp": 1051,
+      "Timestamp": 1053,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1051,
+      "Timestamp": 1053,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 1165,
+      "Timestamp": 1222,
       "X": 73,
-      "Y": 27.61,
+      "Y": 23.32,
       "Delta": 120,
       "EventType": "MouseWheel"
     },
     {
-      "Timestamp": 1165,
+      "Timestamp": 1222,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1165,
+      "Timestamp": 1222,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 1290,
+      "Timestamp": 1344,
       "X": 73,
-      "Y": 27.61,
+      "Y": 23.32,
       "Delta": 120,
       "EventType": "MouseWheel"
     },
     {
-      "Timestamp": 1290,
+      "Timestamp": 1344,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1290,
+      "Timestamp": 1344,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 1392,
-      "X": 72.9,
-      "Y": 27.61,
+      "Timestamp": 1437,
+      "X": 73,
+      "Y": 23.32,
       "Delta": 120,
       "EventType": "MouseWheel"
     },
     {
-      "Timestamp": 1392,
+      "Timestamp": 1437,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1392,
+      "Timestamp": 1437,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 1539,
-      "X": 72.79,
-      "Y": 27.61,
+      "Timestamp": 1517,
+      "X": 73,
+      "Y": 23.32,
       "Delta": 120,
       "EventType": "MouseWheel"
     },
     {
-      "Timestamp": 1539,
+      "Timestamp": 1518,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1539,
+      "Timestamp": 1518,
       "KeyName": "MouseWheelUp",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 1672,
-      "X": 72.9,
-      "Y": 27.61,
-      "Delta": 120,
-      "EventType": "MouseWheel"
-    },
-    {
-      "Timestamp": 1672,
-      "KeyName": "MouseWheelUp",
+      "Timestamp": 3413,
+      "KeyName": "7",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1672,
-      "KeyName": "MouseWheelUp",
-      "EventType": "KeyUp"
-    },
-    {
-      "Timestamp": 1790,
-      "X": 72.9,
-      "Y": 27.61,
-      "Delta": 120,
-      "EventType": "MouseWheel"
-    },
-    {
-      "Timestamp": 1790,
-      "KeyName": "MouseWheelUp",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 1790,
-      "KeyName": "MouseWheelUp",
-      "EventType": "KeyUp"
-    },
-    {
-      "Timestamp": 4164,
-      "KeyName": "8",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 4291,
-      "KeyName": "8",
+      "Timestamp": 3592,
+      "KeyName": "7",
       "EventType": "KeyUp"
     }
   ],

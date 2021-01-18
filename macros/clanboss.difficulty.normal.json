@@ -1,35 +1,25 @@
 {
-  "TimeCreated": "20210106T170304",
-  "Name": "Fight.Setup.Filter.Rank",
+  "TimeCreated": "20210118T095750",
+  "Name": "Clanboss.Difficulty.Normal",
   "Events": [
     {
-      "Timestamp": 837,
-      "KeyName": "Ctrl",
+      "Timestamp": 500,
+      "KeyName": "2",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1219,
-      "KeyName": "Oem3",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 1444,
-      "KeyName": "Oem3",
+      "Timestamp": 600,
+      "KeyName": "2",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 2070,
-      "KeyName": "Ctrl",
-      "EventType": "KeyUp"
-    },
-    {
-      "Timestamp": 3043,
-      "KeyName": "M",
+      "Timestamp": 700,
+      "KeyName": "Enter",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 3174,
-      "KeyName": "M",
+      "Timestamp": 800,
+      "KeyName": "Enter",
       "EventType": "KeyUp"
     }
   ],

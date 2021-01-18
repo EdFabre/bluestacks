@@ -1,30 +1,25 @@
 {
-  "TimeCreated": "20210106T170304",
-  "Name": "CamScroll2.Deadlands",
+  "TimeCreated": "20210118T095750",
+  "Name": "Clanboss.Difficulty.Brutal",
   "Events": [
     {
-      "Timestamp": 1900,
-      "KeyName": "Alt",
+      "Timestamp": 500,
+      "KeyName": "4",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 2607,
-      "KeyName": "Alt",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 2608,
-      "KeyName": "7",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 2608,
-      "KeyName": "7",
+      "Timestamp": 600,
+      "KeyName": "4",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 2958,
-      "KeyName": "Alt",
+      "Timestamp": 700,
+      "KeyName": "Enter",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 800,
+      "KeyName": "Enter",
       "EventType": "KeyUp"
     }
   ],

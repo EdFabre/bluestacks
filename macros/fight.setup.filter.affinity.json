@@ -1,45 +1,55 @@
 {
-  "TimeCreated": "20210106T170304",
+  "TimeCreated": "20210118T095750",
   "Name": "Fight.Setup.Filter.Affinity",
   "Events": [
     {
-      "Timestamp": 773,
+      "Timestamp": 500,
       "KeyName": "Ctrl",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1036,
+      "Timestamp": 600,
       "KeyName": "Oem3",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1353,
+      "Timestamp": 700,
       "KeyName": "Oem3",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 1401,
+      "Timestamp": 800,
       "KeyName": "Ctrl",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 3491,
+      "Timestamp": 1000,
       "KeyName": "Alt",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 3743,
+      "Timestamp": 1100,
       "KeyName": "N",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 3886,
+      "Timestamp": 1200,
       "KeyName": "N",
       "EventType": "KeyUp"
     },
     {
-      "Timestamp": 4076,
+      "Timestamp": 1300,
       "KeyName": "Alt",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 1500,
+      "KeyName": "F",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1600,
+      "KeyName": "F",
       "EventType": "KeyUp"
     }
   ],

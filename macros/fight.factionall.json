@@ -1,10 +1,10 @@
 {
-  "TimeCreated": "20210106T170304",
+  "TimeCreated": "20210118T095750",
   "Name": "Fight.FactionAll",
   "MergedMacroConfigurations": [
     {
       "MacrosToRun": [
-        "Campaign.Stage1"
+        "Campaign.Stage.1"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,

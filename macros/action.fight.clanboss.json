@@ -1,10 +1,21 @@
 {
-  "TimeCreated": "20210106T170304",
-  "Name": "Action.Summon.One",
+  "TimeCreated": "20210118T095750",
+  "Name": "Action.Fight.ClanBoss",
   "MergedMacroConfigurations": [
     {
       "MacrosToRun": [
-        "GoTo.Bastion"
+        "GoTo.Bastion",
+        "Bastion.Battles",
+        "Battles.ClanBoss"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "ClanBoss.Claim"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
@@ -13,16 +24,18 @@
     },
     {
       "MacrosToRun": [
-        "Bastion.Summoning"
+        "GoTo.Bastion",
+        "Bastion.Battles",
+        "Battles.ClanBoss"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
-      "DelayNextScript": 3,
+      "DelayNextScript": 0,
       "Acceleration": 1
     },
     {
       "MacrosToRun": [
-        "Summoning.One"
+        "Clanboss.Fight"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,

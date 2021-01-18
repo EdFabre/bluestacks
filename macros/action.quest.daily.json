@@ -1,13 +1,45 @@
 {
-  "TimeCreated": "20210106T170304",
+  "TimeCreated": "20210118T095750",
   "Name": "Action.Quest.Daily",
   "MergedMacroConfigurations": [
     {
       "MacrosToRun": [
-        "Wait.1Min",
-        "Wait.1Min",
-        "Wait.1Min",
-        "Wait.1Min",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
         "Wait.1Min"
       ],
       "LoopCount": 1,
@@ -21,7 +53,16 @@
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
-      "DelayNextScript": 3,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
       "Acceleration": 1
     },
     {
@@ -30,7 +71,16 @@
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
-      "DelayNextScript": 3,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
       "Acceleration": 1
     },
     {
@@ -39,7 +89,16 @@
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
-      "DelayNextScript": 3,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
       "Acceleration": 1
     },
     {
@@ -48,7 +107,16 @@
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
-      "DelayNextScript": 3,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
       "Acceleration": 1
     },
     {
@@ -57,23 +125,30 @@
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
-      "DelayNextScript": 3,
+      "DelayNextScript": 0,
       "Acceleration": 1
     },
     {
       "MacrosToRun": [
-        "Action.Summon.One",
-        "Action.Summon.One",
-        "Action.Summon.One",
-        "Action.Summon.Ten",
-        "Action.Summon.Ten",
-        "Action.Summon.Ten",
-        "Action.Summon.Ten",
-        "Action.Summon.Ten",
-        "Action.Summon.Ten",
-        "Action.Summon.One",
-        "Action.Summon.One",
-        "Action.Summon.One"
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Summon"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
@@ -91,7 +166,25 @@
     },
     {
       "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
         "Action.Fight.ClassicArena"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
@@ -109,6 +202,15 @@
     },
     {
       "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
         "Action.Fight.7BrutalCampaignBoss"
       ],
       "LoopCount": 1,
@@ -118,7 +220,34 @@
     },
     {
       "MacrosToRun": [
-        "Action.Fight.2ClanBoss"
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Fight.ClanBoss"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
+    },
+    {
+      "MacrosToRun": [
+        "Action.Fight.ClanBoss"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,

@@ -1,14 +1,24 @@
 {
-  "TimeCreated": "20210106T170304",
+  "TimeCreated": "20210118T095750",
   "Name": "Summoning.One",
   "Events": [
     {
-      "Timestamp": 2569,
+      "Timestamp": 500,
       "KeyName": "R",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 2699,
+      "Timestamp": 600,
+      "KeyName": "R",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 800,
+      "KeyName": "R",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1000,
       "KeyName": "R",
       "EventType": "KeyUp"
     }

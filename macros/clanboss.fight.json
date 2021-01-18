@@ -1,56 +1,68 @@
 {
-  "TimeCreated": "20210106T170304",
-  "Name": "ClanBoss.Fight",
-  "Events": [
+  "TimeCreated": "20210118T095750",
+  "Name": "Clanboss.Fight",
+  "MergedMacroConfigurations": [
     {
-      "Timestamp": 3599,
-      "KeyName": "1",
-      "EventType": "KeyDown"
+      "MacrosToRun": [
+        "Clanboss.Difficulty.Easy"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
     },
     {
-      "Timestamp": 3924,
-      "KeyName": "1",
-      "EventType": "KeyUp"
+      "MacrosToRun": [
+        "Fight.StartFightOrNext"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
     },
     {
-      "Timestamp": 7011,
-      "KeyName": "Enter",
-      "EventType": "KeyDown"
+      "MacrosToRun": [
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
     },
     {
-      "Timestamp": 7281,
-      "KeyName": "Enter",
-      "EventType": "KeyUp"
+      "MacrosToRun": [
+        "StartFight.ToggleAuto"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
     },
     {
-      "Timestamp": 13385,
-      "KeyName": "Enter",
-      "EventType": "KeyDown"
+      "MacrosToRun": [
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
     },
     {
-      "Timestamp": 13659,
-      "KeyName": "Enter",
-      "EventType": "KeyUp"
-    },
-    {
-      "Timestamp": 354971,
-      "KeyName": "C",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 355195,
-      "KeyName": "C",
-      "EventType": "KeyUp"
-    },
-    {
-      "Timestamp": 360000,
-      "KeyName": "Esc",
-      "EventType": "KeyDown"
-    },
-    {
-      "Timestamp": 360500,
-      "KeyName": "Esc",
-      "EventType": "KeyUp"
+      "MacrosToRun": [
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min",
+        "Wait.1Min"
+      ],
+      "LoopCount": 1,
+      "LoopInterval": 0,
+      "DelayNextScript": 0,
+      "Acceleration": 1
     }
   ],
   "LoopType": "TillLoopNumber",

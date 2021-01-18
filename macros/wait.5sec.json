@@ -1,15 +1,15 @@
 {
-  "TimeCreated": "20210106T170304",
-  "Name": "CamScroll1.Aravia",
+  "TimeCreated": "20210118T095750",
+  "Name": "Wait.5Sec",
   "Events": [
     {
-      "Timestamp": 1459,
-      "KeyName": "T",
+      "Timestamp": 4900,
+      "KeyName": "Alt",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1630,
-      "KeyName": "T",
+      "Timestamp": 5000,
+      "KeyName": "Alt",
       "EventType": "KeyUp"
     }
   ],

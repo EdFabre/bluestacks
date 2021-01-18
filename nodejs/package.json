@@ -9,10 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "adm-zip": "^0.5.1",
+    "date-and-time": "^0.14.2",
     "dotenv": "^8.2.0",
-    "edit-json-file": "^1.5.0",
-    "line-reader": "^0.4.0",
-    "line-replace": "^2.0.1",
-    "replace-in-file": "^6.1.0"
+    "edit-json-file": "^1.5.0"
   }
 }

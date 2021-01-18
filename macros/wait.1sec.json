@@ -1,15 +1,15 @@
 {
-  "TimeCreated": "20210106T170304",
-  "Name": "CamScroll1.Durham",
+  "TimeCreated": "20210118T095750",
+  "Name": "Wait.1Sec",
   "Events": [
     {
-      "Timestamp": 1216,
-      "KeyName": "G",
+      "Timestamp": 800,
+      "KeyName": "Alt",
       "EventType": "KeyDown"
     },
     {
-      "Timestamp": 1869,
-      "KeyName": "G",
+      "Timestamp": 1000,
+      "KeyName": "Alt",
       "EventType": "KeyUp"
     }
   ],
