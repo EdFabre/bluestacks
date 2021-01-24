@@ -1,63 +1,23 @@
 {
-  "TimeCreated": "20210118T095750",
+  "TimeCreated": "20210124T005807",
   "Name": "Action.Fight.7BrutalCampaignBoss",
   "MergedMacroConfigurations": [
     {
       "MacrosToRun": [
-        "GoTo.Bastion"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 30,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Bastion.Battles"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 3,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
+        "GoTo.Bastion",
+        "Bastion.Battles",
         "Battles.Campaign"
       ],
       "LoopCount": 1,
       "LoopInterval": 0,
-      "DelayNextScript": 3,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Campaign.Difficulty.Brutal"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 3,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Campaign.Map.Brimstone"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
       "DelayNextScript": 0,
       "Acceleration": 1
     },
     {
       "MacrosToRun": [
-        "Campaign.Stage.7"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
+        "Campaign.Difficulty.Brutal",
+        "Campaign.Map.Brimstone",
+        "Campaign.Stage.7",
         "Fight.7FoodBattles"
       ],
       "LoopCount": 1,

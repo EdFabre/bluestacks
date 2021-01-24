@@ -1,5 +1,5 @@
 {
-  "TimeCreated": "20210118T095750",
+  "TimeCreated": "20210124T005807",
   "Name": "Action.Quest.Daily",
   "MergedMacroConfigurations": [
     {
@@ -175,78 +175,14 @@
     },
     {
       "MacrosToRun": [
-        "Action.Fight.ClassicArena"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Wait.1Min"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Action.Fight.TeamsArena"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Wait.1Min"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Action.Fight.7BrutalCampaignBoss"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Wait.1Min"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Action.Fight.ClanBoss"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
-        "Wait.1Min"
-      ],
-      "LoopCount": 1,
-      "LoopInterval": 0,
-      "DelayNextScript": 0,
-      "Acceleration": 1
-    },
-    {
-      "MacrosToRun": [
+        "Action.Fight.7BrutalCampaignBoss",
+        "Wait.1Min",
+        "Action.Fight.ClassicArena",
+        "Wait.1Min",
+        "Action.Fight.TeamsArena",
+        "Wait.1Min",
+        "Action.Fight.ClanBoss",
+        "Wait.1Min",
         "Action.Fight.ClanBoss"
       ],
       "LoopCount": 1,

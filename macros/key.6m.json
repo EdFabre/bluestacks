@@ -1,0 +1,38 @@
+{
+  "TimeCreated": "20210124T005807",
+  "Name": "Key.6M",
+  "Events": [
+    {
+      "Timestamp": 500,
+      "KeyName": "6",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 600,
+      "KeyName": "M",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 700,
+      "KeyName": "M",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 800,
+      "KeyName": "6",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}
